@@ -12,5 +12,5 @@
 
 3. Практика 3
 
-   * [markdown](https://github.com/Metaraddin/kis_crm/blob/main/pract2.md)
-   * [pdf](https://github.com/Metaraddin/kis_crm/blob/main/pract2.pdf)
+   * [markdown](https://github.com/Metaraddin/kis_crm/blob/main/pract3.md)
+   * [pdf](https://github.com/Metaraddin/kis_crm/blob/main/pract3.pdf)
