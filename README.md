@@ -19,3 +19,8 @@
 
    * [markdown](https://github.com/Metaraddin/kis_crm/blob/main/pract/pract4.md)
    * [pdf](https://github.com/Metaraddin/kis_crm/blob/main/pract/pdf/pract4.pdf)
+
+5. Практика 5
+
+   * [markdown](https://github.com/Metaraddin/kis_crm/blob/main/pract/pract5.md)
+   * [pdf](https://github.com/Metaraddin/kis_crm/blob/main/pract/pdf/pract5.pdf)
